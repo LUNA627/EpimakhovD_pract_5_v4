@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ТРПО_практика_5_вариант_4_Епимахов/1.0.0": {
+        "runtime": {
+          "ТРПО_практика_5_вариант_4_Епимахов.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ТРПО_практика_5_вариант_4_Епимахов/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LUNA0_0\\Desktop\\4 \u041A\u0423\u0420\u0421\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_5_C#\\\u0422\u0420\u041F\u041E_\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_5_\u0432\u0430\u0440\u0438\u0430\u043D\u0442_4_\u0415\u043F\u0438\u043C\u0430\u0445\u043E\u0432\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{337788A8-1BBC-4551-9AC2-3971EAB93598}|\u0422\u0420\u041F\u041E_\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_5_\u0432\u0430\u0440\u0438\u0430\u043D\u0442_4_\u0415\u043F\u0438\u043C\u0430\u0445\u043E\u0432\\\u0422\u0420\u041F\u041E_\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_5_\u0432\u0430\u0440\u0438\u0430\u043D\u0442_4_\u0415\u043F\u0438\u043C\u0430\u0445\u043E\u0432.csproj|c:\\users\\luna0_0\\desktop\\4 \u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_5_c#\\\u0442\u0440\u043F\u043E_\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_5_\u0432\u0430\u0440\u0438\u0430\u043D\u0442_4_\u0435\u043F\u0438\u043C\u0430\u0445\u043E\u0432\\\u0442\u0440\u043F\u043E_\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_5_\u0432\u0430\u0440\u0438\u0430\u043D\u0442_4_\u0435\u043F\u0438\u043C\u0430\u0445\u043E\u0432\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{337788A8-1BBC-4551-9AC2-3971EAB93598}|\u0422\u0420\u041F\u041E_\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_5_\u0432\u0430\u0440\u0438\u0430\u043D\u0442_4_\u0415\u043F\u0438\u043C\u0430\u0445\u043E\u0432\\\u0422\u0420\u041F\u041E_\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_5_\u0432\u0430\u0440\u0438\u0430\u043D\u0442_4_\u0415\u043F\u0438\u043C\u0430\u0445\u043E\u0432.csproj|solutionrelative:\u0442\u0440\u043F\u043E_\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_5_\u0432\u0430\u0440\u0438\u0430\u043D\u0442_4_\u0435\u043F\u0438\u043C\u0430\u0445\u043E\u0432\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\4 \u041A\u0423\u0420\u0421\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_5_C#\\\u0422\u0420\u041F\u041E_\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_5_\u0432\u0430\u0440\u0438\u0430\u043D\u0442_4_\u0415\u043F\u0438\u043C\u0430\u0445\u043E\u0432\\\u0422\u0420\u041F\u041E_\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_5_\u0432\u0430\u0440\u0438\u0430\u043D\u0442_4_\u0415\u043F\u0438\u043C\u0430\u0445\u043E\u0432\\Program.cs",
+              "RelativeDocumentMoniker": "\u0422\u0420\u041F\u041E_\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_5_\u0432\u0430\u0440\u0438\u0430\u043D\u0442_4_\u0415\u043F\u0438\u043C\u0430\u0445\u043E\u0432\\Program.cs",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\4 \u041A\u0423\u0420\u0421\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_5_C#\\\u0422\u0420\u041F\u041E_\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_5_\u0432\u0430\u0440\u0438\u0430\u043D\u0442_4_\u0415\u043F\u0438\u043C\u0430\u0445\u043E\u0432\\\u0422\u0420\u041F\u041E_\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_5_\u0432\u0430\u0440\u0438\u0430\u043D\u0442_4_\u0415\u043F\u0438\u043C\u0430\u0445\u043E\u0432\\Program.cs",
+              "RelativeToolTip": "\u0422\u0420\u041F\u041E_\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_5_\u0432\u0430\u0440\u0438\u0430\u043D\u0442_4_\u0415\u043F\u0438\u043C\u0430\u0445\u043E\u0432\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T07:48:20.24Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
